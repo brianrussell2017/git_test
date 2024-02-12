@@ -1,0 +1,70 @@
+.topPage {
+
+background-color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+font-weight: bold;
+color: #e5e7eb;
+border: solid;
+padding: 1em;
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+flex: 1;
+}
+.topPage h3{
+    flex: 1;
+    border: solid;
+}
+
+.nav1{
+    
+color: #f9faf8;
+border: solid;
+padding: 1em;
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+flex: 1;
+}
+.middle{
+    font: 36px extra-bold #1f2937;
+    border: solid;
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    flex-basis: 100%;
+    }
+
+.middle h2{
+    border: solid;
+    flex-basis: 100%;
+}
+.middle img{
+    border: solid;
+    flex-basis: 100%;
+}
+.middle p{
+    border: solid;
+    flex-basis: 100%;
+ 
+}
+
+
+
+
+.containerB{
+    background-color: #e5e7eb;
+font: 36px light italic #1f2937;
+border: solid;
+padding: 1em;
+display: flex;
+flex-wrap:wrap;
+gap: 10px;
+flex-basis: 100%;
+}
+.containerB p{
+    border: solid;
+    flex-basis: 100%;
+}
